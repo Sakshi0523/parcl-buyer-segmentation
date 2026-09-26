@@ -55,8 +55,8 @@ streamlit run app.py
 
 ## Live demo
 
-[Add your Streamlit Cloud deployment link here once deployed]
+https://sakshi0523-parcl-buyer-segmentation-app-ces2ny.streamlit.app/
 
 ## Author
 
-[Your name] — Data Analytics Internship Project
+Sakshi Zadi— Business Analytics Internship Project
